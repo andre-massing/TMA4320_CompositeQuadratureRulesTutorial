@@ -6,3 +6,5 @@ This repository is dedicated to implementing composite quadrature rules, writing
 2. **Write Tests**: Create and run tests to ensure the correctness of the implemented quadrature rules.
 3. **Debug Code**: Practice debugging code using the built-in Python debugger.
 4. **Work with Git and GitHub**: Practice version control and collaboration using Git and GitHub.
+
+More stuff will follow.
